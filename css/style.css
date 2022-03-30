@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /* ------------------------------------------- */
  
 body{
-background: #e8e8e8 url(../img/bg.png) 50% 130px no-repeat;
+background: #e8e8e8 url(https://5wat.github.io/test/img/bg.png) 50% 130px no-repeat;
 }
 
 .content {
